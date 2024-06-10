@@ -1,0 +1,7 @@
+.box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px; /* Or any height you want */
+  border: 1px solid black; /* Just to show the box */
+}
